@@ -1,0 +1,9 @@
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\NumberEntryUi\NumberEntryUi\bin\Debug\NumberEntryUi.exe.config
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\NumberEntryUi\NumberEntryUi\bin\Debug\NumberEntryUi.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\NumberEntryUi\NumberEntryUi\bin\Debug\NumberEntryUi.pdb
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\NumberEntryUi\NumberEntryUi\obj\Debug\NumberEntryUi.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\NumberEntryUi\NumberEntryUi\obj\Debug\NumberEntryUi.Form1.resources
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\NumberEntryUi\NumberEntryUi\obj\Debug\NumberEntryUi.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\NumberEntryUi\NumberEntryUi\obj\Debug\NumberEntryUi.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\NumberEntryUi\NumberEntryUi\obj\Debug\NumberEntryUi.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\NumberEntryUi\NumberEntryUi\obj\Debug\NumberEntryUi.pdb
